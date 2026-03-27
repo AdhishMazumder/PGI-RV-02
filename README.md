@@ -33,7 +33,9 @@ The notebook is modularized into several robust data processing and visualizatio
 ## 🛠 **Prerequisites**
 Ensure you have Python 3.8+ installed. The script relies on several core data science, NLP, and network analysis libraries. You can install the required dependencies using pip:
 
-```pip install pandas numpy matplotlib seaborn plotly networkx python-louvain scikit-learn nltk wordcloud geopandas pycountry fsspec adjustText scipy```
+```
+pip install pandas numpy matplotlib seaborn plotly networkx python-louvain scikit-learn nltk wordcloud geopandas pycountry fsspec adjustText scipy
+```
 
 (Note: NLTK requires the punkt and stopwords datasets, which the script will automatically attempt to download upon its first run).
 
@@ -52,7 +54,9 @@ Ensure your raw CSV/XLS data and curated Excel files are placed in the exact dir
 ###### 3. Run the Notebook:
 Launch Jupyter and open the pipeline:
 
-```jupyter notebook PGI-RV-02.ipynb```
+```
+jupyter notebook PGI-RV-02.ipynb
+```
 
 ###### 4. Execution: 
 Run the cells sequentially. The script will automatically compute the metrics, cluster the networks, and save the resulting tables and figures.
