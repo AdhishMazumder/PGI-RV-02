@@ -1,4 +1,5 @@
 # **Global research trends, hotspots and collaborative networks in brain-derived extracellular vesicles: A multi-database Bibliometric Analysis**  
+Authors: Adhish Mazumder, Shubhankhi Dey, and Prasenjit Mitra
 
 ## 🔬 **About the Project**
 This repository contains a comprehensive Python-based Jupyter Notebook (PGI-RV-02.ipynb) designed by ***Adhish Mazumder*** for the **PregaMind EV-Omics Lab** at **PGIMER, Chandigarh** to perform advanced, multi-database bibliometric analysis. By aggregating, cleaning, and curating publication data from PubMed, Scopus, and Web of Science, this pipeline extracts deep insights into the global research trends, institutional collaborative networks, and emerging thematic hotspots within the study of Brain-Derived Extracellular Vesicles (bdEVs).
@@ -66,3 +67,9 @@ Run the cells sequentially. The script will automatically compute the metrics, c
 The script automatically exports results into the ```2. Analysis/2.3. Bibliometric Analysis/``` subfolders:
 - Data Tables: Exported as .csv files (e.g., top countries, authors, journals, and keywords summaries).
 - Visualizations: Exported in multiple publication-ready formats including PNG, SVG, TIFF, and PDF at an ultra-high resolution of 1000 DPI.
+
+#### **Citation:**
+If you find this bibliometric pipeline useful please cite the paper:
+```
+Mazumder, A., Dey, S. & Mitra, P. Global Research Trends, Hotspots and Collaborative Networks in Brain-Derived Extracellular Vesicles: A Multi-Database Bibliometric Analysis. Neuroinform 24, 15 (2026). https://doi.org/10.1007/s12021-026-09774-5
+```
