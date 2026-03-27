@@ -68,8 +68,19 @@ The script automatically exports results into the ```2. Analysis/2.3. Bibliometr
 - Data Tables: Exported as .csv files (e.g., top countries, authors, journals, and keywords summaries).
 - Visualizations: Exported in multiple publication-ready formats including PNG, SVG, TIFF, and PDF at an ultra-high resolution of 1000 DPI.
 
-#### **Citation:**
-If you find this bibliometric pipeline useful please cite the paper:
-```
-Mazumder, A., Dey, S. & Mitra, P. Global Research Trends, Hotspots and Collaborative Networks in Brain-Derived Extracellular Vesicles: A Multi-Database Bibliometric Analysis. Neuroinform 24, 15 (2026). https://doi.org/10.1007/s12021-026-09774-5
-```
+## 📝 Citation
+
+If you use this code or pipeline in your research, please cite the associated publication:
+
+**APA Format:**
+> Mazumder, A., Dey, S. & Mitra, P. (2026). Global research trends, hotspots and collaborative networks in brain-derived extracellular vesicles: A multi-database Bibliometric Analysis. *Neuroinformatics*. [https://doi.org/10.1007/s12021-026-09774-5]
+
+**BibTeX:**
+```bibtex
+@article{mazumder2026bdevs,
+  title={Global research trends, hotspots and collaborative networks in brain-derived extracellular vesicles: A multi-database bibliometric analysis},
+  author={Mazumder, Adhish and Dey, Shubhankhi and Mitra, Prasenjit},
+  journal={Neuroinformatics},
+  year={2026},
+  doi={10.1007/s12021-026-09774-5}
+}
